@@ -9,10 +9,10 @@
 ## Introduction
 This is projects of Computer Networks course. There are two projects. The first one is a simple implementation of a chat app which clients and server communicate via socket and The second one is an implementation of a Packet Snifer.
 
-## First Project
+## First_Project
 This is a simple chat app which clients and server communicate via socket. [Codes are in this link](https://github.com/mohammadtavakoli78/Computer-Networks/tree/master/Project%201).
 
-## Second Project
+## Second_Project
 This is an implementation of a Packet Snifer. [Codes are in this link](https://github.com/mohammadtavakoli78/Computer-Networks/tree/master/Project%202).
 
 ## Technologies
