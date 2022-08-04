@@ -2,8 +2,8 @@
 
 # Table of Contents
 - [Introduction](https://github.com/mohammadtavakoli78/Computer-Networks#introduction)
-- [First Project](https://github.com/mohammadtavakoli78/Computer-Networks#First Project)
-- [Second Project](https://github.com/mohammadtavakoli78/Computer-Networks#Second Project)
+- [First_Project](https://github.com/mohammadtavakoli78/Computer-Networks#First_Project)
+- [Second_Project](https://github.com/mohammadtavakoli78/Computer-Networks#Second_Project)
 - [Technologies](https://github.com/mohammadtavakoli78/Computer-Networks#technologies)
 
 ## Introduction
